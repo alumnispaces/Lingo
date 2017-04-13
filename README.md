@@ -16,7 +16,7 @@
      * Use `alumni` - it refers to a group of male graduates or a group of both make and female graduates
    
 
-#####*But what about `alum` and `alums`?!*
+##### *But what about `alum` and `alums`?!*
 You can also use `alum` to refer to an individual graduate, regardless of gender or `alums` to refer to a group of graduates regardless of its geneder make up.
  
  
